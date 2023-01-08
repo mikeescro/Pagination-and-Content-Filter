@@ -10,3 +10,5 @@ Your solution should work for any number of student listings, whether there were
 Optionally, you can add a search bar to let users search the list of students for a particular student or students.
 
 Feel free to use jQuery for this project, but please avoid using plugins to achieve the pagination and/or search functionality. 
+
+https://mikeescro.github.io/Pagination-and-Content-Filter/
